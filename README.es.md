@@ -59,6 +59,6 @@ Este y otros proyectos son usados para [aprender a programar](https://4geeksacad
 
 Grupo 4 secciones
 Andres Moulinier
-Gabriel Rojas
+Gabriel Rojas: 
 Mauricio Reinales: first heading y servicios
 Ruben Reyes: portafolio y contacto
